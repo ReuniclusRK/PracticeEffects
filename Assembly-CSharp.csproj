@@ -72,6 +72,9 @@
     <Compile Include="Assets\UnityGameEffect_Book\FX\Scripts\Button_EffectPlay3.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\UnityGameEffect_Book\Cha_Data\Shader\WrapLambert.shader" />
+  </ItemGroup>
+  <ItemGroup>
     <Reference Include="UnityEngine">
       <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.45f1-x86_64\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
       <Private>False</Private>
