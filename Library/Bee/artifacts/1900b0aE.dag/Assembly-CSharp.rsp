@@ -424,6 +424,10 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.45f1-x86_64/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.45f1-x86_64/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/TutorialInfo/Scripts/Readme.cs"
+"Assets/UnityGameEffect_Book/FX/Scripts/Button_EffectPlay.cs"
+"Assets/UnityGameEffect_Book/FX/Scripts/Button_EffectPlay2.cs"
+"Assets/UnityGameEffect_Book/FX/Scripts/Button_EffectPlay3.cs"
+"Assets/UnityGameEffect_Book/FX/Scripts/UvScroll.cs"
 -langversion:9.0
 /deterministic
 /optimize+
